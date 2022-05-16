@@ -50,13 +50,6 @@ input{
     background-color: rgb(247, 234, 234);
 }
 
-/*.answBtn{
-    left: 100px;
-    background: none;
-    border: none;
-    padding-bottom: 10px;
-
-}*/
 
 .questionsWithAnswers{
     font-size: 20px;
@@ -91,12 +84,6 @@ input[name="answer"] {
     
 }
 
-
-
-/*.questions{
-    margin: 0 auto ;
-}*/
-
 .selected {
     color: rgb(194, 14, 14);
   }
@@ -112,11 +99,6 @@ input.nameInput{
     
 }
 
-/*input{
-    height: auto;
-    left: 10px;
-    text-align: left;
-}*/
 
 
 select{
