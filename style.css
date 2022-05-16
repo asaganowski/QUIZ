@@ -1,0 +1,133 @@
+body{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    width: 80%;
+    height: 90%;
+    text-align: center;
+    margin: 0 auto;
+    background-color: rgb(139, 139, 173);
+    
+}
+
+h1{
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 30px;
+    padding: 5px;
+}
+
+button{
+    margin: 10px auto 10px;
+    display: block;
+    cursor: pointer;
+    
+}
+
+select{
+    cursor: pointer;
+}
+
+
+
+
+form>label{
+    display: block;
+    text-align: center;
+    margin: 5px auto;
+    font-size: 80%;
+}
+
+input{
+    left: 10px;
+}
+
+.border{
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 30px;
+    
+    background-color: rgb(247, 234, 234);
+}
+
+/*.answBtn{
+    left: 100px;
+    background: none;
+    border: none;
+    padding-bottom: 10px;
+
+}*/
+
+.questionsWithAnswers{
+    font-size: 20px;
+    text-align: left;
+    margin: 0 40px;
+}
+
+
+div>p{
+    width: 90%;
+}
+
+
+
+
+.checkBtn{
+    
+    box-shadow: 5px 5px 5px #888888;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px;
+    background-color: rgb(108, 192, 108);
+    
+}
+
+input[name="answer"] {
+	text-align: left;
+	width: 17px; 
+	height: 17px;
+	margin: 5px 10px;
+    
+}
+
+
+
+/*.questions{
+    margin: 0 auto ;
+}*/
+
+.selected {
+    color: rgb(194, 14, 14);
+  }
+
+.correctAnswer{
+    color: rgb(80, 105, 80);
+}
+
+input.nameInput{
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    
+}
+
+/*input{
+    height: auto;
+    left: 10px;
+    text-align: left;
+}*/
+
+
+select{
+    font-size: large;
+}
+
+#btn{
+    margin: 50px auto 20px auto;
+    font-size: medium;
+    
+    border-radius: 10px;
+    padding: 5px;
+}
+

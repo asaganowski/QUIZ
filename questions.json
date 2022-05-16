@@ -1,0 +1,145 @@
+
+{
+    "motocykle": [
+        {
+         
+            "quest": "Co ile nalezy wymieniać olej w silniku?",
+            "answers": [
+                "nie rzadziej niz co 2 lata",
+                "nie rzadziej niz co pol roku",
+                "nie rzadziej niz co roku"
+            ],
+            "correctAnswer": "nie rzadziej niz co roku"
+        },
+        {
+            "quest": "Od ktorego roku zycia mozna robic prawo jazdy na kategorie A?",
+            "answers": [
+                "21.",
+                "18.",
+                "24."
+            ],
+            "correctAnswer": "24."
+        },
+        {
+            "quest": "Jesli posiadasz prawo jazdy kat. A1, to mozesz sie poruszac motocyklem o maksymalnej pojemnosci...[ccm]",
+            "answers": [
+                125,
+                250,
+                50
+            ],
+            "correctAnswer": 125
+        },
+        {
+            "quest": "Jak sie nazywal pierwszy polski motocykl?",
+            "answers": [
+                "Stanislaw",
+                "Lech",
+                "Andrzej"
+            ],
+            "correctAnswer": "Lech"
+        },
+        {
+            "quest": "Do czego przystosowany jest motocykl typu enduro?",
+            "answers": [
+                "do dlugich podrozy",
+                "do jazdy po torze, bez homologacji",
+                "do jazdy zarowno po torze, jak i po ulicy, z mozliwoscia rejestracji"
+            ],
+            "correctAnswer": "do jazdy zarowno po torze, jak i po ulicy, z mozliwoscia rejestracji"
+        }
+    ],
+    "siatkowka": [
+        {
+            "quest": "Ile ma boisko do siatkowki halowej?",
+            "answers": [
+                "8x8m",
+                "7x7m",
+                "9x9m"
+            ],
+            "correctAnswer": "9x9m"
+        },
+        {
+            "quest": "Ile osob liczy druzyna siatkowki plazowej?",
+            "answers": [
+                2,
+                3,
+                4
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "quest": "Na jakiej wysokosci wisi siatka przeznaczona dla mezczyzn do lat 21? [m]",
+            "answers": [
+                2.35,
+                2.40,
+                2.43
+            ],
+            "correctAnswer": 2.43
+        },
+        {
+            "quest": "Strefa, z ktorej przyjmujacy zazwyczaj atakuje z drugiej linii to?",
+            "answers": [
+                3,
+                4,
+                6
+            ],
+            "correctAnswer": 6
+        },
+        {
+            "quest": "Czy mozna po zagrywce z wyskoku wyladowac na boisku?",
+            "answers": [
+                "nie",
+                "tak",
+                "nie mozna serwowac z wyskoku"
+            ],
+            "correctAnswer": "tak"
+        }
+    ],
+    "javascript": [
+        {
+            "quest": "Skrot DOM oznacza document object model.",
+            "answers": [
+                "prawda",
+                "falsz",
+                "nie ma takiego terminu związanego z JS"
+            ],
+            "correctAnswer": "prawda"
+        },
+        {
+            "quest": "Jak stworzyc HTML-owy znacznik 'label' w JS?",
+            "answers": [
+                "createElement('label')",
+                "makeTag('label')",
+                "createTag('label')"
+            ],
+            "correctAnswer": "createElement('label')"
+        },
+        {
+            "quest": "Nazwa jednej z biblioteki (frameworku) JS to?",
+            "answers": [
+                "ReactJS",
+                "VeuJS",
+                "AnkularJS"
+            ],
+            "correctAnswer": "ReactJS"
+        },
+        {
+            "quest": "Kto jest tworca JS?",
+            "answers": [
+                "Artur Saganowski",
+                "Brendan Eich",
+                "Albert Einstein"
+            ],
+            "correctAnswer": "Brendan Eich"
+        },
+        {
+            "quest": "Gdzie umieszcza sie kod JS?",
+            "answers": [
+                "w pliku .css",
+                "obie odpowiedzi sa poprawne",
+                "w osobnym pliku"
+            ],
+            "correctAnswer": "w osobnym pliku"
+        }
+    ]
+}
